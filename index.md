@@ -1,17 +1,17 @@
-# Support for DeskWright
+# Support for DeckWright
 
 **Last updated:** October 21, 2026
 
-DeskWright is a flashcard study app for iPhone. It runs on any iPhone. On
+DeckWright is a flashcard study app for iPhone. It runs on any iPhone. On
 iPhone Duo, the cover can show the current card while the phone is closed. This
 page collects help, answers to common questions, and how to report a problem.
 
 ## Getting help
 
-DeskWright runs entirely on your device and has no account or network access,
+DeckWright runs entirely on your device and has no account or network access,
 so there is no in-app support chat. For help:
 
-- Open an issue at <https://github.com/oherna25/deskwright-support/issues>
+- Open an issue at <https://github.com/oherna25/deckwright-support/issues>
 - Include your iOS version, device model, and the steps to reproduce the
   problem
 - For import problems, note the file format (.json, .cards, or .apkg) and,
@@ -21,7 +21,7 @@ Questions and feedback are welcome there too.
 
 ## Frequently asked questions
 
-### Does DeskWright need an account or internet connection?
+### Does DeckWright need an account or internet connection?
 
 No. The app works completely offline. There is no sign-in, no account, and
 no network requests. All decks, cards, and study history stay on your
@@ -29,7 +29,7 @@ device.
 
 ### What import formats are supported?
 
-JSON (native DeskWright schema), `.cards` packages, and Anki `.apkg`
+JSON (native DeckWright schema), `.cards` packages, and Anki `.apkg`
 packages. The format is detected automatically when you pick a file. A
 preview (deck name, card count, sample cards) is shown before importing.
 
@@ -37,7 +37,7 @@ preview (deck name, card count, sample cards) is shown before importing.
 
 Only on your device, in the app's local storage. It is included in your
 device's standard backups (iCloud or local) according to your device
-settings. DeskWright does not run any cloud service.
+settings. DeckWright does not run any cloud service.
 
 ### How do I back up or share a deck?
 
@@ -63,7 +63,7 @@ removes all locally stored data.
 
 ### Is there a subscription or in-app purchase?
 
-No. DeskWright is a one-time purchase with no subscriptions and no ads.
+No. DeckWright is a one-time purchase with no subscriptions and no ads.
 
 ## Troubleshooting
 
@@ -73,7 +73,7 @@ No. DeskWright is a one-time purchase with no subscriptions and no ads.
 - **Cover screen stays blank.** Cover study requires iPhone Duo and the
   phone must be closed. Make sure you selected **Cover screen** in quiz
   setup.
-- **Text is too small or too large.** DeskWright follows Dynamic Type. Adjust
+- **Text is too small or too large.** DeckWright follows Dynamic Type. Adjust
   the text size in iOS Settings > Display & Brightness > Text Size.
 - **App crashes on launch.** Reinstalling the app clears local data; back up
   decks via Export first if possible.
@@ -88,14 +88,14 @@ When reporting a bug, please include:
 4. App version
 5. Whether the issue happens on the main screen, the cover, or both
 
-File the report at <https://github.com/oherna25/deskwright-support/issues>.
+File the report at <https://github.com/oherna25/deckwright-support/issues>.
 
 ## Privacy
 
-DeskWright collects no personal data. See the full privacy policy at
-<https://oherna25.github.io/deskwright-privacy/>.
+DeckWright collects no personal data. See the full privacy policy at
+<https://oherna25.github.io/deckwright-privacy/>.
 
 ## Contact
 
 For anything not covered here, open an issue at
-<https://github.com/oherna25/deskwright-support/issues>.
+<https://github.com/oherna25/deckwright-support/issues>.
